@@ -1,0 +1,68 @@
+{
+  "loss": 0.0,
+  "perplexity": 0.0,
+  "token_accuracy": 0.0109204368174727,
+  "exact_match": 0.0,
+  "predictions": [
+    {
+      "src": "w50 w28 w44",
+      "target": "w44 w28 w50",
+      "generated": "w1 w1 w1 w1 w1 w1 w1 w1 w1 w1 w1 w1 w1 w1",
+      "match": false
+    },
+    {
+      "src": "w74 w0 w69 w34 w33 w74 w34 w57",
+      "target": "w57 w34 w74 w33 w34 w69 w0 w74",
+      "generated": "w27 w27 w27 w27 w27 w27 w27 w27 w27 w27",
+      "match": false
+    },
+    {
+      "src": "w19 w35 w29 w19 w26 w78 w73 w41",
+      "target": "w41 w73 w78 w26 w19 w29 w35 w19",
+      "generated": "w23 w23 w23 w23 w23 w23 w23 w23 w23 w23 w23 w23 w23 w23 w23 w23 w23 w23 w23 w23 w23 w23 w23 w23 w23 w23 w23",
+      "match": false
+    },
+    {
+      "src": "w5 w17 w22 w58 w61 w7",
+      "target": "w7 w61 w58 w22 w17 w5",
+      "generated": "w1 w1 w1 w1 w1 w33",
+      "match": false
+    },
+    {
+      "src": "w49 w50 w49 w20",
+      "target": "w20 w49 w50 w49",
+      "generated": "w1 w1 w23 w23 w23 w1 w1 w1 w1 w1 w1 w1 w1 w1 w1",
+      "match": false
+    },
+    {
+      "src": "w6 w83 w34 w96 w13 w8 w18",
+      "target": "w18 w8 w13 w96 w34 w83 w6",
+      "generated": "w15 w15 w15 w15 w15 w15 w15 w15 w15 w15 w15 w15 w15 w15 w15 w15",
+      "match": false
+    },
+    {
+      "src": "w59 w62 w13 w88 w52 w82 w58 w40 w80",
+      "target": "w80 w40 w58 w82 w52 w88 w13 w62 w59",
+      "generated": "w27 w27 w27 w27 w27 w27 w27 w27 w27 w27 w27 w27 w27 w27 w27",
+      "match": false
+    },
+    {
+      "src": "w92 w90 w71 w71 w20 w2 w18 w57 w80 w77",
+      "target": "w77 w80 w57 w18 w2 w20 w71 w71 w90 w92",
+      "generated": "w1 w1 w1 w1 w1 w1 w1 w1",
+      "match": false
+    },
+    {
+      "src": "w4 w43 w1 w0 w6 w29",
+      "target": "w29 w6 w0 w1 w43 w4",
+      "generated": "w52 w8 w52 w8 w52 w8 w1 w1 w1 w1 w1 w1 w1 w1 w1 w1 w52",
+      "match": false
+    },
+    {
+      "src": "w38 w48 w60 w76 w26 w13 w91",
+      "target": "w91 w13 w26 w76 w60 w48 w38",
+      "generated": "w23 w23 w23 w23 w23 w23 w23 w23 w23 w23 w23 w23 w23 w23 w23 w23 w23 w23 w23 w23 w23 w23 w23 w23 w23 w23 w23 w23 w23 w23 w23 w23",
+      "match": false
+    }
+  ]
+}

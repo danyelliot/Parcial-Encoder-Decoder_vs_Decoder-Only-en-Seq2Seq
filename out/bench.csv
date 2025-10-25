@@ -1,0 +1,3 @@
+model,seq_len,batch_size,latency_mean,latency_std,memory_mean,memory_std
+Encoder-Decoder,128,8,11.119828224182129,0.8161867965221713,0.0,0.0
+Decoder-Only,128,8,8.492188453674316,0.7747865116266907,0.0,0.0

@@ -1,0 +1,53 @@
+# Normalización de EOL y codificación UTF-8
+# Todos los archivos de texto usan LF (Unix) y UTF-8
+
+# Por defecto, todos los archivos de texto
+* text=auto eol=lf
+
+# Scripts
+*.sh text eol=lf
+*.bash text eol=lf
+
+# Python
+*.py text eol=lf
+*.pyx text eol=lf
+
+# Documentación
+*.md text eol=lf
+*.txt text eol=lf
+*.rst text eol=lf
+
+# Configuración
+*.json text eol=lf
+*.jsonl text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.toml text eol=lf
+*.ini text eol=lf
+*.cfg text eol=lf
+
+# Data
+*.csv text eol=lf
+*.tsv text eol=lf
+
+# Makefile
+Makefile text eol=lf
+makefile text eol=lf
+*.mk text eol=lf
+
+# Binarios (no convertir)
+*.pkl binary
+*.pt binary
+*.pth binary
+*.tar.gz binary
+*.tgz binary
+*.zip binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.pdf binary
+
+# Git
+.gitattributes text eol=lf
+.gitignore text eol=lf
